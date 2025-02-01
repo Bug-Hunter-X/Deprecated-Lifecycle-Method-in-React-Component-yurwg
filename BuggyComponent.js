@@ -1,0 +1,1 @@
+This React component uses the wrong lifecycle method to set state. `componentWillMount` is deprecated and may cause unexpected behavior.  It should be replaced with `useEffect`.
