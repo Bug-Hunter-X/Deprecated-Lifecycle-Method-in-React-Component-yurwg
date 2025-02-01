@@ -1,0 +1,1 @@
+This repository demonstrates a common bug in React: the incorrect usage of lifecycle methods for updating component state. Specifically, it showcases the use of the deprecated `componentWillMount` method, which is replaced by `useEffect` in functional components.  The solution demonstrates the correct implementation using `useEffect` for a more robust and future-proof component.
